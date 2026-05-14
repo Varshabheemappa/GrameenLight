@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grameen-Light</string>
+    <string name="map">Map</string>
+    <string name="tracker">Tracker</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="working">Working Fine</string>
+    <string name="fused">Bulb Fused / Not Working</string>
+    <string name="day_on">Burning in Daytime</string>
+    <string name="report_title">What is the current status?</string>
+    <string name="report_sub">Your complaint ID will be generated instantly</string>
+    <string name="village_name">Demo Village</string>
+    <string name="citizen_audit">Citizen Streetlight Audit</string>
+    <string name="energy_saved">Energy Saved This Month</string>
+    <string name="zero_dark">Zero-Dark Night Status</string>
+    <string name="repair_tracker">Repair Tracker</string>
+    <string name="track_complaints">Track your complaints here</string>
+</resources>
